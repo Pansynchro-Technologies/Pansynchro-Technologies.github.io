@@ -2,7 +2,7 @@
 
 ## Definition
 
-Namespace: Pansynchro.Core
+Namespace: Pansynchro.Core<BR>
 Assembly: Pansynchro.Core
 
 Provides basic connector functionality for reading data from an external source into [DataStream](Pansynchro.Core.DataStream)s.
