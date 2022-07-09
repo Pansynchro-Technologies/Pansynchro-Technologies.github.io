@@ -14,7 +14,6 @@ A Pansynchro reader is responsible for interpreting data from an external source
 ## Methods
 
 | [ReadFrom(DataDictionary)](Pansynchro.Core.IReader.ReadFrom.html) | Loads data into a sequence of [DataStream](Pansynchro.Core.DataStream.html)s. |
-| [SetIncrementalPlan(Dictionary<StreamDescription, string>)](Pansynchro.Core.IReader.ReadFrom.html) | Sets up incremental data synchronization for readers that support it. |
 | [TestConnection()](Pansynchro.Core.IReader.TestConnection.html) | A tooling-friendly method for verifying that a reader is configured properly and able to retrieve data. |
 
 ## See Also
