@@ -13,10 +13,10 @@ A Pansynchro [reader](Pansynchro.Core.IReader) is responsible for interpreting d
 
 ## Methods
 
-| [GetDataAsync()](Pansynchro.Core.IDataSource.GetDataAsync.html) | Retrieves binary data from an external source. |
-| [GetDataAsync(string)](Pansynchro.Core.IDataSource.GetDataAsync.html) | Retrieves a specific binary data stream from an external source. |
-| [GetTextAsync()](Pansynchro.Core.IDataSource.GetTextAsync.html) | Retrieves text-based data from an external source. |
-| [GetTextAsync(string)](Pansynchro.Core.IDataSource.GetTextAsync.html) | Retrieves a specific text-based data stream from an external source. |
+| [GetDataAsync()](Pansynchro.Core.IDataSource.GetDataAsync.html#m0) | Retrieves binary data from an external source. |
+| [GetDataAsync(string)](Pansynchro.Core.IDataSource.GetDataAsync.html#m1) | Retrieves a specific binary data stream from an external source. |
+| [GetTextAsync()](Pansynchro.Core.IDataSource.GetTextAsync.html#m0) | Retrieves text-based data from an external source. |
+| [GetTextAsync(string)](Pansynchro.Core.IDataSource.GetTextAsync.html#m1) | Retrieves a specific text-based data stream from an external source. |
 
 
 ## See Also
