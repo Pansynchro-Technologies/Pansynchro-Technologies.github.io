@@ -5,7 +5,7 @@
 Namespace: Pansynchro.Core<BR>
 Assembly: Pansynchro.Core
 
-Provides basic functionality for reading raw data from an external source.
+Provides a connector with support for reading raw data from an external source.
 
 ## Remarks
 
