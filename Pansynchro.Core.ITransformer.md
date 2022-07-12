@@ -12,7 +12,7 @@ One or more transformers can be inserted between the [reader](Pansynchro.Core.IR
 
 ## Methods
 
-| [Transform(IAsyncEnumerable&ltDataStream&gt;)](Pansynchro.Core.ITransformer.Transform.html) | Applies transformations to some or all of the data streams in a sequence. |
+| [Transform(IAsyncEnumerable&lt;DataStream&gt;)](Pansynchro.Core.ITransformer.Transform.html) | Applies transformations to some or all of the data streams in a sequence. |
 
 ## See Also
 
